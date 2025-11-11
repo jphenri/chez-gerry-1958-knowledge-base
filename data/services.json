@@ -1,0 +1,26 @@
+{
+  "currency": "CAD",
+  "services": [
+    {
+      "slug": "resole-redwing",
+      "name": "Resole Red Wing (Goodyear welt)",
+      "base_price": 189,
+      "turnaround_days": "7-14",
+      "notes": "Includes edge finish and conditioning."
+    },
+    {
+      "slug": "upgrade-vibram-1136",
+      "name": "Upgrade to Vibram 1136 Lug",
+      "base_price": 229,
+      "turnaround_days": "10-18",
+      "notes": "Full lug traction upgrade."
+    },
+    {
+      "slug": "birkenstock-conversion",
+      "name": "Birkenstock modular sole conversion",
+      "base_price": 139,
+      "turnaround_days": "5-10",
+      "notes": "Cork/EVA repairs included if needed."
+    }
+  ]
+}

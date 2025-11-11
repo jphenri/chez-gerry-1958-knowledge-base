@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "Upgrade Red Wing 8084 to Vibram 430/1136",
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Vibram 430 or 1136 outsole"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Leather midsole (optional)"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Adhesive, thread"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "text": "Remove original soles and inspect welt/midsole."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Prepare midsole, rebuild cork as needed."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Cement and stitch new Vibram outsole."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finish edges and condition leather."
+    }
+  ]
+}

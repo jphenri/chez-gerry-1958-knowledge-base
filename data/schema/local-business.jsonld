@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ShoeRepair",
+  "name": "Chez Gerry 1958",
+  "image": "https://chezgerry1958.com/assets/logo.png",
+  "url": "https://chezgerry1958.com",
+  "telephone": "+1-***-***-****",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Gatineau",
+    "addressRegion": "QC",
+    "addressCountry": "CA"
+  },
+  "areaServed": "Canada",
+  "foundingDate": "1958",
+  "sameAs": [
+    "https://www.facebook.com/chezgerry1958",
+    "https://www.instagram.com/chezgerry1958",
+    "https://www.youtube.com/@chezgerry1958"
+  ]
+}

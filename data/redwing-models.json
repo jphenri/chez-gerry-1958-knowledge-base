@@ -1,0 +1,34 @@
+{
+  "models": [
+    {
+      "style": "8084",
+      "name": "Iron Ranger Black Harness",
+      "construction": "Goodyear welt",
+      "typical_upgrades": [
+        "Vibram 430",
+        "Vibram 1136",
+        "Leather midsole"
+      ]
+    },
+    {
+      "style": "8111",
+      "name": "Iron Ranger Amber Harness",
+      "construction": "Goodyear welt",
+      "typical_upgrades": [
+        "Vibram 430",
+        "Half-sole 705",
+        "Storm welt refurb"
+      ]
+    },
+    {
+      "style": "877",
+      "name": "8\" Classic Moc",
+      "construction": "Goodyear welt",
+      "typical_upgrades": [
+        "Vibram 4014 Wedge",
+        "Vibram 100 Lug",
+        "Toe reinforcement"
+      ]
+    }
+  ]
+}

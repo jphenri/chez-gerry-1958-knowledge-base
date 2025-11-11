@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Vibram 1136 Montagna Full Lug",
+  "brand": "Vibram",
+  "category": "Outsole",
+  "isAccessoryOrSparePartFor": "Goodyear-welted boots",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Lug depth",
+      "value": "Deep"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Use",
+      "value": "Outdoor / Winter"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Grip",
+      "value": "High"
+    }
+  ]
+}

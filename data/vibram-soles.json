@@ -1,0 +1,44 @@
+{
+  "soles": [
+    {
+      "code": "1136",
+      "name": "Montagna Full Lug",
+      "category": "Lug",
+      "best_for": [
+        "Traction",
+        "Outdoor",
+        "Winter"
+      ],
+      "thickness_mm": 6.0
+    },
+    {
+      "code": "430",
+      "name": "Mini Lug",
+      "category": "Hybrid",
+      "best_for": [
+        "City + Winter"
+      ],
+      "thickness_mm": 5.5
+    },
+    {
+      "code": "4014",
+      "name": "Christy Wedge",
+      "category": "Wedge",
+      "best_for": [
+        "Comfort",
+        "Casual"
+      ],
+      "thickness_mm": 6.5
+    },
+    {
+      "code": "100",
+      "name": "Lug",
+      "category": "Lug",
+      "best_for": [
+        "Heavy-duty",
+        "Work"
+      ],
+      "thickness_mm": 8.0
+    }
+  ]
+}

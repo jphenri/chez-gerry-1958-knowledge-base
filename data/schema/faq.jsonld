@@ -1,0 +1,406 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a Red Wing resole take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typical turnaround is 7\u201314 days depending on parts and queue."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can my 8084 be upgraded to Vibram 1136?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We prepare the midsole, cement and stitch the 1136 for maximum durability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you accept mail-in repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We accept orders by mail across Canada. See shipping-process guide."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which is better for city winter, 430 or 1136?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "430 Mini-Lug is usually ideal for mixed city conditions; 1136 is best for deep winter and outdoor traction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you convert a wedge to a lug sole?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we can convert 4014 wedges to 430/100/1136, adjusting heel stack and edge finish."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will resoling change the boot fit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fit remains the same; break-in may feel different based on sole stiffness and thickness."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you rebuild cork footbeds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we rebuild the cork during resole if compressed or damaged."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I oil Red Wing oil-tanned leather?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Light conditioning only when leather looks dry; avoid over-oiling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you repair storm welts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We can repair/replace welt sections if needed during resole."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you color-match edges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we finish edges to natural, brown, or black per request."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What\u2019s the difference between 8111 and 8084?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Same Iron Ranger construction; different leather tones and finishes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you resole 877 to Vibram 100?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; it increases traction and weight with a heavy-duty lug profile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you replace shanks?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We inspect and replace steel/fiber shanks if bent or fatigued."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to remove salt stains safely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Damp cloth, repeated light passes, then condition once fully dry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you do toe-cap reinforcement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, with internal stiffeners or rubberized layers depending on need."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you ship back with tracking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, all mail-in repairs are tracked and insured options are available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I change the edge color?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; choose natural, brown, or black."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What payment methods do you accept?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Major cards and e-transfer; for mail-in we invoice online."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does Vibram 1136 last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It\u2019s very durable; lifespan depends on use but typically longer than 430."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you work on non-Red Wing boots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, heritage workwear and many Goodyear-welted brands."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you restore color on Amber Harness?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We can refresh and deepen tone; exact match not always guaranteed due to patina."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to break-in after new soles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Alternate days; expect 1\u20132 weeks for feel to normalize."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you keep original stitching patterns?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we respect heritage aesthetics."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you re-last the boots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We do not re-last; we preserve the original last shape."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you fix cracked midsoles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We replace leather midsoles if cracked or crushed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is wedge vs lug ride feel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Wedge = cushy and smooth; Lug = firm, high traction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you waterproof boots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We apply protective finishes on request; maintenance is still required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you add a midsole?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; adding a leather midsole can change flex and durability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to maintain Black Harness finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Brush regularly; condition sparingly to keep matte appearance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What\u2019s turnaround in peak season?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "May extend 3\u20135 days beyond typical timelines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you repair Birkenstock footbeds?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we rebuild cork and replace modular outsoles."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you install Vibram 705 half soles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; classic look with rubber forepart grip."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer rush service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Limited rush options\u2014ask for current availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will resoling void manufacturer warranty?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manufacturer warranties vary; our work is covered by our shop guarantee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you re-dye leather?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We can recolor within limits; results vary with leather chemistry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you swap out laces and eyelets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; we can replace laces and hardware if requested."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What heel heights are available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Standard rebuild or customized height within safe tolerances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you fix loose moc-toe threads?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes; we restitch moc seams and reinforce as needed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you do CSA safety upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We service CSA-rated boots; toe cap installation is not added post-manufacture."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are Vibram soles slip-resistant?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many Vibram patterns are; check code specifications for slip/oil resistance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What\u2019s the best sole for commuters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "430 Mini-Lug balances grip, weight, and discrete profile."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you rotate soles left/right?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No; soles are cut per boot; we install new matched components."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you keep the original cork?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We inspect and reuse only if healthy; otherwise we rebuild."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to store boots off-season?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clean, condition lightly, insert shoe trees, store cool/dry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you fix heel counters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We can stabilize or replace counters depending on damage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you convert 877 to wedge again later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, lug\u2194wedge conversions are possible with proper prep."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you provide before/after photos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes on request; share your permission for public posting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What info to include for mail-in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contact, return address, desired service, photos if specific issues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How to choose between 1136 and 100?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1136 = modern lug with great winter grip; 100 = classic heavy-duty lug, stiffer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer conditioning-only service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes\u2014cleaning, conditioning, and edge refresh available."
+      }
+    }
+  ]
+}

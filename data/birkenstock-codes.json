@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "code": "EVA",
+      "desc": "Lightweight foam, flexible, water-friendly"
+    },
+    {
+      "code": "Cork-Latex",
+      "desc": "Classic cork with latex binder, supportive footbed"
+    }
+  ],
+  "operations": [
+    {
+      "slug": "replace-sole",
+      "name": "Replace modular sole"
+    },
+    {
+      "slug": "rebuild-footbed",
+      "name": "Rebuild cork footbed"
+    },
+    {
+      "slug": "replace-straps",
+      "name": "Replace straps/buckles"
+    }
+  ]
+}
