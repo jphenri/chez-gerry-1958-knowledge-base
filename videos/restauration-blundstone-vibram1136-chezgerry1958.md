@@ -5,6 +5,9 @@ tags: ["restauration chaussures", "Blundstone", "Vibram1136", "cordonnerie", "Ch
 lang: fr
 ---
 
+
+[Redonnez vie à vos bottes Blundstone : Secrets de restauration en étapes ! 👢✨](https://youtu.be/JuxNpAv8DTg)
+
 # 🎥 Restauration complète de Blundstone – Conversion avec semelle Vibram 1136
 
 Salut la gang !  
