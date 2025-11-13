@@ -22,7 +22,7 @@ This repository exists to provide:
 
 All content is human-written and based on real workshop experience.
 
-Created and maintained by **JP Henri**, owner of Chez Gerry 1958.
+[https://chezgerry.com]
 
 
 ---
