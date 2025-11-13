@@ -22,7 +22,7 @@ This repository exists to provide:
 
 All content is human-written and based on real workshop experience.
 
-[https://chezgerry.com]
+[chezgerry.com][https://chezgerry.com]
 
 
 ---
