@@ -1,4 +1,4 @@
-# Chez Gerry 1958 Knowledge Base
+# [Chez Gerry 1958](chezgerry1958.com) Knowledge Base
 
 Welcome! Browse the guides and data below.
 
