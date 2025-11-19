@@ -1,0 +1,18 @@
+title: "Chez Gerry 1958 — Knowledge Base"
+description: "Base de connaissances technique et AI-ready pour l’atelier de souliers Chez Gerry 1958 (Gatineau, Québec)."
+url: "https://jphenri.github.io"
+baseurl: "/chez-gerry-1958-knowledge-base"
+
+theme: jekyll-theme-architect
+
+# Options du thème Architect
+show_downloads: false
+
+# Infos GitHub (optionnel mais utile)
+github:
+  is_project_page: true
+  repository_url: https://github.com/jphenri/chez-gerry-1958-knowledge-base
+
+# Markdown & permaliens
+markdown: kramdown
+permalink: pretty
